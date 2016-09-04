@@ -3,13 +3,11 @@
  LANG: C++
  TASK: milk
  */
-
-/*
+ 
 #include <iostream>
 #include <fstream>
 #include <algorithm>
 using namespace std;
-
 
 int N, M;
 
@@ -53,4 +51,3 @@ int main() {
     
     return 0;
 }
-*/
