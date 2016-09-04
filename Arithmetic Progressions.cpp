@@ -4,7 +4,6 @@
  TASK: ariprog
  */
 
-/*
 #include <iostream>
 #include <fstream>
 #include <algorithm>
@@ -61,4 +60,4 @@ int main() {
         fout << num[i].start << " " << num[i].diff << "\n";
     
     return 0;
-} */
+}
