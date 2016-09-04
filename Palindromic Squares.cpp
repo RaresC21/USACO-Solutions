@@ -3,7 +3,7 @@
  LANG: C++
  TASK: palsquare
  */
-/*
+
 #include <iostream>
 #include <fstream>
 #include <math.h>
@@ -48,4 +48,4 @@ int main() {
     }
     
     return 0;
-}*/
+}
