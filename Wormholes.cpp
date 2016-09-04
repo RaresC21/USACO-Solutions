@@ -5,9 +5,9 @@
  TASK: wormhole
  */
 
-/*
- #include <iostream>
- #include <fstream>
+
+#include <iostream>
+#include <fstream>
 
 using namespace std;
 #define MAX 12
@@ -76,4 +76,4 @@ int main() {
     fout << ans << endl;
     
     return 0;
-}*/
+}
