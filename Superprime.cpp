@@ -3,7 +3,7 @@
  LANG: C++
  TASK: sprime
  */
-/*
+
 #include <iostream>
 #include <fstream>
 #include <algorithm>
@@ -58,4 +58,4 @@ int main() {
     solve(7, 0);
     
     return 0;
-}*/
+}
