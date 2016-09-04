@@ -3,7 +3,7 @@
  LANG: C++
  TASK: crypt1
  */
-/*
+
 #include <iostream>
 #include <fstream>
 #include <algorithm>
@@ -64,4 +64,4 @@ int main() {
     
     return 0;
 }
-*/
+
