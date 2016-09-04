@@ -3,7 +3,6 @@
  LANG: C++
  TASK: numtri
  */
-/*
 
 #include <iostream>
 #include <fstream>
@@ -36,4 +35,3 @@ int main() {
     
     return 0;
 }
-*/
