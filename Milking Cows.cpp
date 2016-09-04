@@ -1,9 +1,6 @@
-
-/*
- 
- #include <iostream>
- #include <fstream>
- #include <algorithm>
+#include <iostream>
+#include <fstream>
+#include <algorithm>
  
 using namespace std;
 
@@ -48,4 +45,4 @@ int main() {
     fout << longmilk << " " << nomilk << endl;
     
     return 0;
-}*/
+}
