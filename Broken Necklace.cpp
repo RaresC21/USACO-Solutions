@@ -1,7 +1,6 @@
 
-/*
- #include <iostream>
- #include <fstream>
+#include <iostream>
+#include <fstream>
  
 using namespace std;
 
@@ -54,4 +53,4 @@ int main()
     fout << ans << endl;
     
     return 0;
-}*/
+}
