@@ -1,6 +1,6 @@
-/*
- #include <iostream>
- #include <fstream>
+
+#include <iostream>
+#include <fstream>
  
 using namespace std;
 
@@ -48,4 +48,4 @@ int main()
         fout << names[i] << " " << money[i] << endl;
     
     return 0;
-}*/
+}
