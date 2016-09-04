@@ -1,6 +1,4 @@
 
-
-/*
  #include <iostream>
  #include <fstream>
  #include <map>
@@ -53,4 +51,4 @@ int main() {
         for (int i = 0; i < p; i++)
             fout << ans[i] << endl;
     }
-}*/
+}
